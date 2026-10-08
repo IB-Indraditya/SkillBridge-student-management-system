@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block nav %}<span><a class="btn" href="{{ url_for('download', rid=rid) }}">Download Excel</a> <a class="btn" href="#" onclick="print();return false">Print / PDF</a> <a class="btn" href="/">New file</a></span>{% endblock %}
+{% block body %}
+<h1 style="max-width:none">Report: {{ file }}</h1>
+{% for R in results %}
+<h2>{{ R.name }}</h2>
+<div class="kpis">{% for k,v in R.kpis %}<div class="kpi"><span>{{ k }}</span><strong>{{ v }}</strong></div>{% endfor %}</div>
+{% if R.insights %}<h2>Key findings</h2><ul class="ins">{% for i in R.insights %}<li>{{ i }}</li>{% endfor %}</ul>{% endif %}
+{% if R.charts or R.ml %}<h2>Charts</h2><div class="charts">
+{% for c in R.charts %}<div class="card"><h3>{{ c.title }}</h3><canvas class="ch" data-c='{{ c|tojson|forceescape }}'></canvas></div>{% endfor %}
+{% if R.ml and R.ml.importance %}<div class="card"><h3>What drives placement (%)</h3><canvas class="ch" data-c='{{ {"type":"bar","labels":R.ml.importance.labels,"values":R.ml.importance["values"]}|tojson|forceescape }}'></canvas></div>{% endif %}
+</div>{% endif %}
+{% if R.ml %}<h2>{{ R.ml.kind }}</h2><p class="tag">{{ R.ml.metric }}</p>{% endif %}
+{% if R.table %}<h3>{{ R.table.title }}</h3><div class="wrap">{{ R.table.html|safe }}</div>{% endif %}
+{% if R.stats %}<h3>Numeric summary</h3><div class="wrap">{{ R.stats|safe }}</div>{% endif %}
+{% endfor %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script>
+const T=["#14b8a6","#ffffff","#0d7f74","#5eead4","#8fb0ad","#134e4a","#99f6e4","#2dd4bf"];
+Chart.defaults.color="#cfe3e1";
+document.querySelectorAll(".ch").forEach(e=>{const c=JSON.parse(e.dataset.c),d=c.type=="doughnut";
+new Chart(e,{type:c.type,data:{labels:c.labels,datasets:[{data:c.values,backgroundColor:d?T:"#14b8a6"}]},
+options:{plugins:{legend:{display:d}},scales:d?{}:{x:{grid:{color:"#17353a"}},y:{grid:{color:"#17353a"}}}}})});
+</script>{% endblock %}

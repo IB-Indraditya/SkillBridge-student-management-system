@@ -1,0 +1,6 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SkillBridge | Mobilisation, Training and Placement Assistant</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}"></head><body>
+<header><a class="brand" href="/">Skill<b>Bridge</b></a>{% block nav %}{% endblock %}</header>
+<main>{% for m in get_flashed_messages() %}<div class="flash" role="alert">{{ m }}</div>{% endfor %}{% block body %}{% endblock %}</main>
+</body></html>

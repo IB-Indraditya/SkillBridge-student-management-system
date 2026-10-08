@@ -1,0 +1,12 @@
+{% extends "base.html" %}{% block body %}
+<h1>From first contact to first job</h1>
+<p class="lead">Upload a candidate file and get a mobilisation, training and placement report built from that file's own columns.</p>
+<form class="drop" action="/analyse" method="post" enctype="multipart/form-data">
+<label for="f"><strong>Choose a data file</strong><br>CSV, Excel (.xlsx, .xls), SQL script (.sql) or SQLite (.db)</label>
+<input id="f" type="file" name="file" accept=".csv,.xlsx,.xls,.sql,.db,.sqlite" required>
+<button type="submit">Build report</button></form>
+<div class="cols">
+<div><h3>Mobilisation</h3><p>Lead sources, locations and enrolment mix.</p></div>
+<div><h3>Training</h3><p>Score and attendance patterns by course.</p></div>
+<div><h3>Placement</h3><p>Placement rates, drivers and candidates at risk.</p></div></div>
+{% endblock %}

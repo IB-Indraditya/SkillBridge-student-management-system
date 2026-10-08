@@ -1,0 +1,201 @@
+candidate_id,name,source,district,course,attendance,assessment_score,placement_status,salary
+1,Candidate 1,Job fair,Nadia,Electronics,53,38,Not placed,0
+2,Candidate 2,Job fair,Kolkata,IT-ITES,75,78,Placed,28636
+3,Candidate 3,Camp,Nadia,Healthcare,98,79,Placed,18363
+4,Candidate 4,Referral,Kolkata,Retail,91,59,Placed,14365
+5,Candidate 5,Job fair,Howrah,Retail,46,99,Placed,29876
+6,Candidate 6,Job fair,Nadia,IT-ITES,72,33,Not placed,0
+7,Candidate 7,Social media,Nadia,Electronics,80,59,Not placed,0
+8,Candidate 8,Camp,Howrah,Healthcare,63,32,Not placed,0
+9,Candidate 9,Referral,Bardhaman,Retail,85,67,Placed,29342
+10,Candidate 10,Referral,Bardhaman,IT-ITES,72,94,Placed,29949
+11,Candidate 11,Camp,Nadia,Healthcare,76,94,Placed,17977
+12,Candidate 12,Social media,Hooghly,Healthcare,92,81,Placed,22991
+13,Candidate 13,Camp,Howrah,Retail,89,77,Placed,22535
+14,Candidate 14,Camp,Nadia,Electronics,98,80,Placed,14712
+15,Candidate 15,Social media,Kolkata,IT-ITES,64,80,Placed,26624
+16,Candidate 16,Referral,Bardhaman,IT-ITES,57,99,Placed,19788
+17,Candidate 17,Social media,Bardhaman,Retail,74,64,Placed,26736
+18,Candidate 18,Camp,Nadia,Healthcare,80,56,Placed,28254
+19,Candidate 19,Job fair,Nadia,IT-ITES,68,100,Placed,27325
+20,Candidate 20,Referral,Nadia,Electronics,67,83,Not placed,0
+21,Candidate 21,Social media,Bardhaman,IT-ITES,83,33,Not placed,0
+22,Candidate 22,Referral,Kolkata,Retail,82,53,Placed,27791
+23,Candidate 23,Camp,Nadia,Retail,88,39,Placed,14238
+24,Candidate 24,Camp,Bardhaman,IT-ITES,93,65,Placed,17024
+25,Candidate 25,Social media,Hooghly,Retail,67,67,Not placed,0
+26,Candidate 26,Referral,Nadia,Electronics,78,51,Placed,25511
+27,Candidate 27,Camp,Hooghly,Healthcare,65,93,Placed,20333
+28,Candidate 28,Camp,Hooghly,IT-ITES,66,83,Placed,28742
+29,Candidate 29,Job fair,Kolkata,IT-ITES,91,95,Placed,17692
+30,Candidate 30,Social media,Nadia,IT-ITES,46,80,Not placed,0
+31,Candidate 31,Social media,Bardhaman,Healthcare,90,94,Placed,21386
+32,Candidate 32,Referral,Nadia,Retail,59,97,Placed,14963
+33,Candidate 33,Social media,Kolkata,IT-ITES,92,68,Placed,19019
+34,Candidate 34,Referral,Howrah,Electronics,49,39,Not placed,0
+35,Candidate 35,Camp,Bardhaman,IT-ITES,71,62,Not placed,0
+36,Candidate 36,Camp,Nadia,Healthcare,97,57,Placed,17283
+37,Candidate 37,Job fair,Bardhaman,IT-ITES,67,42,Not placed,0
+38,Candidate 38,Job fair,Hooghly,Retail,57,93,Placed,22259
+39,Candidate 39,Job fair,Hooghly,Electronics,76,32,Not placed,0
+40,Candidate 40,Referral,Bardhaman,IT-ITES,46,50,Not placed,0
+41,Candidate 41,Social media,Hooghly,Electronics,95,47,Placed,25050
+42,Candidate 42,Job fair,Bardhaman,Electronics,51,78,Placed,17844
+43,Candidate 43,Social media,Howrah,Retail,49,35,Not placed,0
+44,Candidate 44,Referral,Bardhaman,Electronics,79,57,Placed,22288
+45,Candidate 45,Referral,Kolkata,Electronics,98,62,Placed,18771
+46,Candidate 46,Camp,Hooghly,IT-ITES,60,92,Placed,14641
+47,Candidate 47,Social media,Howrah,Healthcare,71,39,Placed,19585
+48,Candidate 48,Social media,Bardhaman,Retail,52,78,Placed,15339
+49,Candidate 49,Camp,Nadia,Electronics,62,76,Placed,28692
+50,Candidate 50,Referral,Kolkata,Retail,62,43,Not placed,0
+51,Candidate 51,Camp,Kolkata,Retail,84,31,Not placed,0
+52,Candidate 52,Camp,Nadia,Healthcare,57,60,Not placed,0
+53,Candidate 53,Camp,Nadia,IT-ITES,55,60,Placed,28921
+54,Candidate 54,Referral,Nadia,Electronics,69,99,Placed,19152
+55,Candidate 55,Camp,Kolkata,Electronics,51,56,Not placed,0
+56,Candidate 56,Job fair,Hooghly,Electronics,95,67,Placed,20529
+57,Candidate 57,Job fair,Kolkata,Electronics,49,38,Not placed,0
+58,Candidate 58,Referral,Hooghly,Healthcare,61,57,Placed,17001
+59,Candidate 59,Social media,Hooghly,Electronics,79,56,Not placed,0
+60,Candidate 60,Job fair,Kolkata,Retail,50,65,Placed,24682
+61,Candidate 61,Referral,Kolkata,IT-ITES,81,73,Placed,19361
+62,Candidate 62,Referral,Kolkata,Electronics,56,70,Not placed,0
+63,Candidate 63,Camp,Howrah,IT-ITES,79,41,Not placed,0
+64,Candidate 64,Camp,Kolkata,Electronics,70,39,Not placed,0
+65,Candidate 65,Referral,Nadia,Electronics,46,31,Not placed,0
+66,Candidate 66,Referral,Kolkata,Retail,75,49,Not placed,0
+67,Candidate 67,Social media,Howrah,IT-ITES,77,52,Placed,27460
+68,Candidate 68,Referral,Howrah,Electronics,100,70,Placed,28643
+69,Candidate 69,Referral,Bardhaman,Retail,58,48,Not placed,0
+70,Candidate 70,Referral,Nadia,IT-ITES,96,100,Placed,22806
+71,Candidate 71,Camp,Nadia,IT-ITES,55,36,Not placed,0
+72,Candidate 72,Job fair,Bardhaman,Electronics,96,85,Placed,21427
+73,Candidate 73,Referral,Nadia,Electronics,45,80,Not placed,0
+74,Candidate 74,Referral,Bardhaman,Retail,46,83,Not placed,0
+75,Candidate 75,Referral,Nadia,IT-ITES,53,46,Not placed,0
+76,Candidate 76,Camp,Howrah,IT-ITES,81,81,Placed,21962
+77,Candidate 77,Job fair,Howrah,Electronics,45,52,Not placed,0
+78,Candidate 78,Job fair,Howrah,Healthcare,60,70,Placed,25679
+79,Candidate 79,Social media,Kolkata,Electronics,71,73,Placed,29099
+80,Candidate 80,Social media,Hooghly,Electronics,49,95,Placed,18894
+81,Candidate 81,Job fair,Bardhaman,Electronics,89,68,Placed,15392
+82,Candidate 82,Social media,Hooghly,Healthcare,99,45,Not placed,0
+83,Candidate 83,Job fair,Hooghly,Retail,72,57,Placed,20291
+84,Candidate 84,Camp,Hooghly,Retail,77,51,Placed,24296
+85,Candidate 85,Social media,Bardhaman,Retail,51,64,Placed,27794
+86,Candidate 86,Social media,Nadia,Healthcare,87,40,Placed,29400
+87,Candidate 87,Referral,Nadia,Healthcare,96,85,Placed,16069
+88,Candidate 88,Job fair,Bardhaman,IT-ITES,84,92,Placed,22749
+89,Candidate 89,Social media,Nadia,Electronics,71,45,Not placed,0
+90,Candidate 90,Job fair,Bardhaman,IT-ITES,92,30,Not placed,0
+91,Candidate 91,Referral,Howrah,IT-ITES,46,33,Not placed,0
+92,Candidate 92,Social media,Hooghly,IT-ITES,56,66,Placed,19097
+93,Candidate 93,Social media,Bardhaman,Healthcare,82,62,Placed,19848
+94,Candidate 94,Social media,Bardhaman,Retail,76,83,Placed,28400
+95,Candidate 95,Camp,Kolkata,Electronics,69,56,Placed,15934
+96,Candidate 96,Social media,Kolkata,Electronics,81,31,Placed,22198
+97,Candidate 97,Referral,Bardhaman,Healthcare,68,69,Placed,19303
+98,Candidate 98,Job fair,Hooghly,Healthcare,45,45,Not placed,0
+99,Candidate 99,Job fair,Kolkata,Healthcare,64,99,Placed,24611
+100,Candidate 100,Camp,Hooghly,IT-ITES,69,78,Placed,24412
+101,Candidate 101,Job fair,Bardhaman,IT-ITES,83,95,Placed,27673
+102,Candidate 102,Social media,Nadia,Electronics,78,82,Placed,24158
+103,Candidate 103,Camp,Nadia,IT-ITES,87,97,Placed,23492
+104,Candidate 104,Camp,Nadia,Electronics,72,81,Placed,26218
+105,Candidate 105,Social media,Nadia,Retail,60,67,Placed,26820
+106,Candidate 106,Camp,Hooghly,Retail,62,52,Placed,28953
+107,Candidate 107,Job fair,Hooghly,Electronics,61,82,Placed,21938
+108,Candidate 108,Camp,Bardhaman,Retail,55,89,Placed,20923
+109,Candidate 109,Job fair,Kolkata,Retail,49,75,Placed,16689
+110,Candidate 110,Referral,Bardhaman,Retail,77,50,Not placed,0
+111,Candidate 111,Referral,Hooghly,IT-ITES,64,56,Not placed,0
+112,Candidate 112,Camp,Howrah,Electronics,49,39,Not placed,0
+113,Candidate 113,Social media,Nadia,Electronics,64,64,Placed,23192
+114,Candidate 114,Referral,Bardhaman,Healthcare,70,52,Placed,19400
+115,Candidate 115,Social media,Kolkata,Electronics,90,58,Placed,27955
+116,Candidate 116,Job fair,Howrah,Electronics,100,81,Placed,26868
+117,Candidate 117,Social media,Bardhaman,Retail,62,54,Placed,21267
+118,Candidate 118,Social media,Howrah,Electronics,82,48,Not placed,0
+119,Candidate 119,Referral,Nadia,Healthcare,94,47,Not placed,0
+120,Candidate 120,Referral,Kolkata,IT-ITES,60,44,Not placed,0
+121,Candidate 121,Job fair,Kolkata,Healthcare,51,59,Not placed,0
+122,Candidate 122,Camp,Howrah,Retail,56,35,Not placed,0
+123,Candidate 123,Job fair,Hooghly,Healthcare,88,34,Placed,24861
+124,Candidate 124,Social media,Kolkata,Retail,98,65,Placed,17638
+125,Candidate 125,Job fair,Howrah,Healthcare,70,59,Placed,29948
+126,Candidate 126,Job fair,Howrah,Electronics,59,60,Not placed,0
+127,Candidate 127,Camp,Howrah,Electronics,73,63,Placed,15291
+128,Candidate 128,Job fair,Hooghly,Retail,47,31,Not placed,0
+129,Candidate 129,Social media,Howrah,IT-ITES,69,66,Placed,27004
+130,Candidate 130,Camp,Bardhaman,Healthcare,46,31,Not placed,0
+131,Candidate 131,Job fair,Hooghly,IT-ITES,69,62,Not placed,0
+132,Candidate 132,Social media,Kolkata,Retail,45,34,Not placed,0
+133,Candidate 133,Social media,Kolkata,Healthcare,62,45,Not placed,0
+134,Candidate 134,Social media,Nadia,Electronics,76,46,Placed,20384
+135,Candidate 135,Social media,Howrah,Electronics,66,64,Placed,14986
+136,Candidate 136,Camp,Hooghly,Electronics,82,52,Not placed,0
+137,Candidate 137,Job fair,Kolkata,IT-ITES,80,82,Placed,25690
+138,Candidate 138,Camp,Howrah,Electronics,62,39,Not placed,0
+139,Candidate 139,Camp,Kolkata,Healthcare,48,56,Placed,24438
+140,Candidate 140,Referral,Kolkata,Healthcare,50,95,Placed,19123
+141,Candidate 141,Social media,Nadia,Retail,47,46,Not placed,0
+142,Candidate 142,Referral,Kolkata,Retail,93,87,Placed,18096
+143,Candidate 143,Camp,Nadia,Retail,96,71,Placed,14952
+144,Candidate 144,Social media,Hooghly,Electronics,91,63,Placed,27018
+145,Candidate 145,Job fair,Howrah,Electronics,69,44,Not placed,0
+146,Candidate 146,Referral,Bardhaman,Electronics,77,56,Placed,26838
+147,Candidate 147,Job fair,Bardhaman,Retail,70,91,Placed,23152
+148,Candidate 148,Referral,Howrah,Retail,91,96,Placed,17276
+149,Candidate 149,Job fair,Hooghly,Electronics,68,79,Placed,16070
+150,Candidate 150,Referral,Nadia,Retail,81,38,Not placed,0
+151,Candidate 151,Referral,Bardhaman,Electronics,64,70,Not placed,0
+152,Candidate 152,Referral,Hooghly,Retail,77,31,Not placed,0
+153,Candidate 153,Referral,Nadia,Retail,95,71,Placed,21440
+154,Candidate 154,Camp,Howrah,Retail,68,78,Placed,14798
+155,Candidate 155,Social media,Bardhaman,Electronics,78,92,Placed,26233
+156,Candidate 156,Referral,Nadia,Electronics,66,76,Placed,23801
+157,Candidate 157,Social media,Hooghly,IT-ITES,66,98,Placed,25259
+158,Candidate 158,Job fair,Bardhaman,Retail,59,47,Not placed,0
+159,Candidate 159,Camp,Howrah,Electronics,48,42,Not placed,0
+160,Candidate 160,Camp,Howrah,Retail,61,38,Not placed,0
+161,Candidate 161,Referral,Nadia,Healthcare,86,52,Not placed,0
+162,Candidate 162,Social media,Bardhaman,IT-ITES,90,66,Placed,22087
+163,Candidate 163,Referral,Bardhaman,Healthcare,100,60,Placed,28952
+164,Candidate 164,Referral,Nadia,Retail,57,91,Placed,17299
+165,Candidate 165,Job fair,Kolkata,Healthcare,45,98,Placed,20614
+166,Candidate 166,Referral,Nadia,Healthcare,84,95,Placed,14104
+167,Candidate 167,Camp,Hooghly,Retail,57,68,Placed,22396
+168,Candidate 168,Job fair,Bardhaman,Electronics,92,70,Placed,29394
+169,Candidate 169,Referral,Nadia,Healthcare,97,96,Placed,18946
+170,Candidate 170,Social media,Bardhaman,Healthcare,53,94,Placed,26656
+171,Candidate 171,Camp,Hooghly,Retail,55,62,Not placed,0
+172,Candidate 172,Camp,Kolkata,Electronics,71,81,Placed,29157
+173,Candidate 173,Job fair,Hooghly,Healthcare,50,30,Not placed,0
+174,Candidate 174,Referral,Nadia,Healthcare,95,77,Placed,21473
+175,Candidate 175,Social media,Nadia,Healthcare,96,44,Not placed,0
+176,Candidate 176,Referral,Hooghly,IT-ITES,54,32,Not placed,0
+177,Candidate 177,Job fair,Hooghly,Electronics,99,46,Placed,29385
+178,Candidate 178,Referral,Nadia,Healthcare,77,66,Placed,19503
+179,Candidate 179,Job fair,Nadia,IT-ITES,94,92,Placed,25733
+180,Candidate 180,Social media,Howrah,Retail,72,41,Not placed,0
+181,Candidate 181,Social media,Nadia,Retail,59,33,Not placed,0
+182,Candidate 182,Social media,Kolkata,Healthcare,94,42,Placed,15460
+183,Candidate 183,Job fair,Hooghly,IT-ITES,72,36,Not placed,0
+184,Candidate 184,Camp,Hooghly,Healthcare,48,43,Not placed,0
+185,Candidate 185,Camp,Howrah,IT-ITES,88,65,Placed,25088
+186,Candidate 186,Job fair,Hooghly,Healthcare,86,41,Not placed,0
+187,Candidate 187,Job fair,Kolkata,Healthcare,88,95,Placed,23930
+188,Candidate 188,Job fair,Bardhaman,Retail,99,91,Placed,28833
+189,Candidate 189,Referral,Nadia,IT-ITES,89,55,Placed,26176
+190,Candidate 190,Social media,Bardhaman,Healthcare,79,66,Placed,19522
+191,Candidate 191,Referral,Hooghly,Retail,100,92,Placed,14924
+192,Candidate 192,Camp,Howrah,Electronics,79,86,Placed,22323
+193,Candidate 193,Social media,Howrah,IT-ITES,62,64,Not placed,0
+194,Candidate 194,Camp,Bardhaman,Healthcare,61,54,Not placed,0
+195,Candidate 195,Job fair,Hooghly,IT-ITES,98,95,Placed,18584
+196,Candidate 196,Social media,Nadia,Electronics,75,69,Placed,20024
+197,Candidate 197,Social media,Bardhaman,IT-ITES,83,90,Placed,26434
+198,Candidate 198,Referral,Bardhaman,IT-ITES,56,87,Not placed,0
+199,Candidate 199,Job fair,Nadia,IT-ITES,89,47,Not placed,0
+200,Candidate 200,Social media,Hooghly,IT-ITES,66,45,Placed,17686
