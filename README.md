@@ -5,6 +5,7 @@ SkillBridge is a Python-based data analytics and machine learning application de
 The application allows users to upload candidate datasets in CSV, Excel, SQL, or SQLite format and automatically generates actionable insights, performance KPIs, visual reports, candidate-risk analysis, and downloadable Excel reports.
 
 ---
+<img width="1853" height="889" alt="image" src="https://github.com/user-attachments/assets/b88f3ded-f56e-4884-a103-f5e792e93d6e" />
 
 ## Key Features
 
